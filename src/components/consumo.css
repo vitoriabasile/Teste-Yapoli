@@ -1,0 +1,42 @@
+.conteiner
+{
+/* display: flex; */
+/* justify-content: center; */
+align-items: center;
+width: 30%;
+background-color:white; 
+border-radius: 2px;
+border-style: outset;
+}
+.espaco
+{
+margin-left: auto;
+margin-right: auto;
+background-color:white; 
+}
+
+.card-img{
+  width: 100px;
+}
+
+.card-title
+{
+  display: flex;
+  background-color:white; 
+  color: #484848;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin: 0;
+  /* margin-top: 5px; */
+  width: 200px;
+  height: 80%;
+  font-family:verdana ;
+  float:left;
+}
+
+.row{
+display: flex;
+justify-content: center;
+align-items: center;
+}
